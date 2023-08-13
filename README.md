@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 ### Screenshot
@@ -31,7 +30,7 @@ After that it was a straightforward implementation of the designs into html and 
 
 ### Built with
 
-- html
+- HTML
 - CSS
 
 ### What I learned
@@ -44,5 +43,5 @@ Where properties such as font-family are viewable in figma, and how to use keybo
 
 ## Author
 
-- Website - [Kieran Lockyer](www.kieranlockyer.com.au)
+- Website - [Kieran Lockyer](http://www.kieranlockyer.com.au)
 - Frontend Mentor - [@kieran-lockyer](https://www.frontendmentor.io/profile/kieran-lockyer)
